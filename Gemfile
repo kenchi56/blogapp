@@ -23,6 +23,7 @@ gem "turbo-rails"
 
 gem 'faker'
 gem 'haml-rails'
+gem 'annotate'
 
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
